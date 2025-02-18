@@ -3,11 +3,11 @@ Activate Ms Office Permanently
 
 1️⃣Office Deployment Tool => https://www.microsoft.com/en-ca/download/details.aspx?id=49117
 
-      1.1:After downloading file run it as adminitator in C drive in a new folder MS Office
+1.1:After downloading file run it as adminitator in C drive in a new folder MS Office
   
 2️⃣Office Configuration file => https://config.office.com/deploymentsettings
 
-      🅰️Download it in the same folder (C:\Ms Office)
+2.1:Download it in the same folder (C:\Ms Office)
   
 3️⃣After Downloading these two files click on the address bar and type **cmd** then type this command **setup.exe /configure configuration.xml**
 and hit enter. It will start Downloading Ms Office
